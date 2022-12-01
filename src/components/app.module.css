@@ -1,0 +1,17 @@
+  .App {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 16px;
+    padding-bottom: 24px;
+}
+
+.btnContainer{
+  text-align: center;
+}
+.loader{
+  height: 80px;
+  width: 80px;
+  border-radius: 9px;
+  color: green;
+
+}
